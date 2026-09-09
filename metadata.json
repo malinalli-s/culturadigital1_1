@@ -1,0 +1,6 @@
+{
+  "name": "Distrito Tecnológico CETis - RPG Cultura Digital",
+  "description": "Videojuego educativo retro RPG estilo GBA para Cultura Digital I: diagnóstico de hardware, software, obsolescencia y estrategia PAEC cero basura.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
